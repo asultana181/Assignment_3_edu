@@ -4,3 +4,50 @@
 .height{
     height: 590px;
 }
+<div class="card mb-3" style="max-width: 570px;">
+<div class="row g-4">
+  <!-- card1 -->
+ <div class="d-flex ">
+  <div class="col-md-4">
+    <img src="images/course/course-1.png" class="img-fluid rounded-start" alt="...">
+  </div>
+  <div class="col-md-8">
+    <div class="card-body">
+      <h4>Fundamental Of UI/UX Design</h4>
+      <p class="text-secondary">Some quick example text to build on the card title
+        and make up the bulk of the card</p>
+      <h5>price:$20</h5>
+    </div>
+  </div>
+ </div>
+ <!-- card2 -->
+ <div class="d-flex">
+  <div class="col-md-4">
+    <img src="images/course/course-1.png" class="img-fluid rounded-start" alt="...">
+  </div>
+  <div class="col-md-8">
+    <div class="card-body">
+      <h4>Fundamental Of UI/UX Design</h4>
+      <p class="text-secondary">Some quick example text to build on the card title
+        and make up the bulk of the card</p>
+      <h5>price:$20</h5>
+    </div>
+  </div>
+ </div>
+ <!-- card3 -->
+ <div class="d-flex">
+  <div class="col-md-4">
+    <img src="images/course/course-1.png" class="img-fluid rounded-start" alt="...">
+  </div>
+  <div class="col-md-8">
+    <div class="card-body">
+      <h4>Fundamental Of UI/UX Design</h4>
+      <p class="text-secondary">Some quick example text to build on the card title
+        and make up the bulk of the card</p>
+      <h5>price:$20</h5>
+    </div>
+  </div>
+ </div>
+
+</div>
+</div>
